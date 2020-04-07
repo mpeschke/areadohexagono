@@ -11,7 +11,7 @@ int main()
     while(l >= 0.0f)
     {
         calc_hexa(l, &area, &perimetro);
-        printf("Área do hexágono de lado %f: %f", l, area);
+        printf("Área do hexágono de lado %f: %f\n", l, area);
         printf("Perímetro do hexágono de lado %f: %f\n", l, perimetro);
         scanf("%f", &l);
     }
