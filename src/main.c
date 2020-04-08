@@ -1,3 +1,4 @@
+// Código-fonte disponível em https://github.com/mpeschke/areadohexagono.git
 #include <stdio.h>
 #include <math.h>
 
