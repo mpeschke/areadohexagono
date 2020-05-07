@@ -15,7 +15,7 @@ Por exemplo, no Ubuntu:
 
 Baixe o repositório:
 
-*git clone ssh://git@github.com/mpeschke/areadohexagono.git* (via ssh) ou
+*git clone ssh://git@github.com/mpeschke/areadohexagono.git* (via ssh) ou  
 *git clone https://github.com/mpeschke/areadohexagono.git* (pergunta usuário e senha)
 
 *cd areadohexagono/*

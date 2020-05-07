@@ -58,3 +58,9 @@ Makefile
 CMakeCache.txt
 cmake_install.cmake
 desafio1
+
+# Visual Studio Code
+.vscode/
+
+#CMake
+build/
